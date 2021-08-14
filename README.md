@@ -4,6 +4,6 @@ Lock and Unlock your Vita Apps with this easy to use tool.. Just highlight the A
 ![Screenshot](https://github.com/AntHJ/AppLocker/blob/main/AppLocker.png)
 
 # How to Bypass the lock (and lunch the app)
-Hold the left analog stick to the left and the right analog stick to the right and then press both the L + R triggers
+Hold the left analog stick to the left and the right analog stick to the right and then press both the L + R triggers... FULLY LOCKED apps are NOT bypassable with the combo..
 
 ![Screenshot](https://github.com/AntHJ/AppLocker/blob/main/AppLocker-locked.png)
