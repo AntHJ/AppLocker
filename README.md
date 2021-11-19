@@ -1,5 +1,6 @@
 # AppLocker
 * Utilises Lua Player Plus Vita (lpp-vita). [Learn more.](https://github.com/Rinnegatamante/lpp-vita)
+
 Lock and Unlock your Vita Apps with this easy to use tool.. Just highlight the App you want to lock and press X to LOCK the app (bypassable with the key combo), wait until you see LOCKED and thats it, or press SQUARE to FULLY LOCK the app (none bypassable), or use the hidden Konami lock by presing Start on your chosen app.. you can press O to remove the lock on the highlighted app..
 
       This app gives you 3 extra levels of security :
